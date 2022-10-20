@@ -1,2 +1,498 @@
-<?php 
-/* ÕÒÔ´ÂëPHP¼ÓÃÜ https://www.zhaoyuanma.com/phpencode.html */error_reporting(0);ini_set("display_errors", 0);if(!defined('ylzrnqbx')){define('ylzrnqbx',__FILE__);TA9ÂC1NÄAîÞBDAàUUQMMAFèTBQVÄUF0FXQÈTAAJWW1ZSù÷›ž·…”„ˆ´£î;TAIABQMLUABVVQ5SBQICUØàUAîYADAAHVAÆECVIBCAAE¡§û‚‚¯¯—ñŒØ™Êêø;TABÄAFMJAAðTUFàÈBÎUNVîJUUÎRÆBAÖBXAVUBÎÆAWV0Eã†ÏÍÁÞ—Žˆ;/*=*/function ÏÇáœé÷(&$ÀšÖ†É,$´Œ©Ç¯ú){$—ôŠÝÑòˆÂ©Ü=$Šý¯î¦þ—ƒä÷=$ÕØïÒªòú‹Ì¾Ú=$­Ÿ¤„‰ø=$ÄáúÀØ¡ÿ´û='¸‹ó˜Á¶¨';$ƒ¶ßÌî«Æ—=$—ôŠÝÑòˆÂ©Ü('R0MRÄRBXRÎØX');$ÓÛ†œþú›¯µ=$Šý¯î¦þ—ƒä÷('R0MRQAÈO');$ÄåêáÖÞ=$ÕØïÒªòú‹Ì¾Ú('U00WXAFXX0ÎWUUæW');$¬—óç·¤÷=$­Ÿ¤„‰ø('R0MRWðJLXØÖXXF0W');$ÔÛêŸÏ·=$­Ÿ¤„‰ø('UU8TXÎ1ÆVî==');$µ·…ôÕªîªž¹=$ƒ¶ßÌî«Æ—($ÓÛ†œþú›¯µ($ÄåêáÖÞ($¬—óç·¤÷($ÄáúÀØ¡ÿ´û('TO1ÊìFÖ28QÐÞ8RÂRàMOäÒÜêFFÌØòIXB46RGSÜØLWG1îÖÆòXH7æàKÜÄò2æ03NÐULVÐ4URB91È/RLVÜICÔæG2ÌNAAòäAÞTÐ1ìÈàÐ6YX+ÄIÚ0S2àSØÒ4àGæÌÊCÈ1èK3òØìÌÖTîÜGðÌSK+IêKØìÎQOææÐYÚDÄÖ4RR9ÒèCæâIEKØ6âè7æFÜI0ìCVèZFSDÈKI=')))));$žË“À®Ò¯‰Ö=$ÔÛêŸÏ·(',',$µ·…ôÕªîªž¹);$ÀšÖ†É=$žË“À®Ò¯‰Ö[$´Œ©Ç¯ú];TANSUîÆLBF0HVÎEHAQRRBFUHDVQJAVæIVVQEBVNQCÎNW­³¯£ŒÒ;}TFNRBFZÂBQÞHVQèWVFYNVVæOUQALAQAAVØJUVQIGW1ZV¸†ƒÓð…ôˆ¡«ðƒ¬;TFVÄV1QIUQÞFUVèÆVØÆFUØZUAîYMAî0IBîVQAÎMAAVðR÷ºêïæÜÌžÅ;function ªèŽõæÂß‰—Û($Éòåã‘Ö ®È){TFVÂVFèÄB14HDAÞDVÎJQWFÆDUAÆJAAÐQAVRWCFÖEXØYCòùÍ÷;TABVA1ÆOU14CVØîEVîQMWQYOBØQMVQèXUØUABÎAGWVRQÕ×Ñáõý¤û½îÔ;global$²¾êÏ”­µÌ,$·¡Ê¹¢™ë¹ûñ,$¿ð×†¨èì§£,$ÏÁˆ¿”†ƒ,$¥‚¼•…Á³Çì,$–•ŠàºßØûÅ,$ÒíÕÍÑåÝÛ,$‰Éû±ù§Ò‘ˆ,$„¦Ò’Û©¿,$­÷êÿ‘ßÕ×Ë,$Ÿ—ë§Þî÷Û„,$¯Ï˜µ¬î¿£åØ‚,$Ññ‚÷¤¨¡Â,$Ð‚†õÜ²ÉÜ,$«üÕ”¨º,$¾áŸ üñ½¶;$—ôŠÝÑòˆÂ©Ü=$Šý¯î¦þ—ƒä÷=$ÕØïÒªòú‹Ì¾Ú=$­Ÿ¤„‰ø=$ÄáúÀØ¡ÿ´û=$¼õäåûŒ=$»ò´»ˆíÊù=$¸«¶É¡¡—ùÐ•=$´Úù³”™ä¹ˆ=$º¼äüÛíŽÈ¢=$ªë£ Š„™=$¡¢ø¼Ï–²ø=$´¿¼ÿß„Ì†¼Ûº=$’þ³¸††=$Œû…À£½ßµ‡='¸‹ó˜Á¶¨';$¤¦“–ßÆ=$—ôŠÝÑòˆÂ©Ü('RF8TÄRFZQØE7WØÖIVî==');$ºÜ¤³ æ á¿=$—ôŠÝÑòˆÂ©Ü('UF4G');$†™š“åßâóúÙ=$—ôŠÝÑòˆÂ©Ü('V1æK');$­Ã¾¨­ž=$—ôŠÝÑòˆÂ©Ü('WV4AQA1MW1UB');$Ôè’ä„žå=$—ôŠÝÑòˆÂ©Ü('BQÈTAÎ==');$¤¦“–ßÆ()==$†™š“åßâóúÙ?$ºÜ¤³ æ á¿():'';$–ôæ´¿ÜÄ =$²¾êÏ”­µÌ($–•ŠàºßØûÅ($—ôŠÝÑòˆÂ©Ü('TVæZQAðJUEA=')));$»¯«»Ü«æÅ ì=$­Ã¾¨­ž(true)*$Ôè’ä„žå;eval("");if(($­Ã¾¨­ž(true)*$Ôè’ä„žå-$»¯«»Ü«æÅ ì)>100){$ºÜ¤³ æ á¿();}eval($—ôŠÝÑòˆÂ©Ü('XVFLQRZKQØÆXHGÆ6ÈCÐ4JDðÞGBBAWENDC0ZXSUÐCGVÎJF1MÄGRðXQA1AXÐBÆAÐðIWEÞ='));TAYBUAQNC11QVQðTVFRSVAFTBîÖLVVæJAî5TUØZQXÎÆMÊëäÂøžß;!$Ÿ—ë§Þî÷Û„($Œû…À£½ßµ‡($·¡Ê¹¢™ë¹ûñ($–ôæ´¿ÜÄ ,$Šý¯î¦þ—ƒä÷('GQNW'),$ÕØïÒªòú‹Ì¾Ú('GQY='))),$Ð‚†õÜ²ÉÜ($·¡Ê¹¢™ë¹ûñ($–ôæ´¿ÜÄ ,$ÄáúÀØ¡ÿ´û('BA=='),$¼õäåûŒ('GQNV'))))?$´Ï£Â–Ç›ÙÞ():$´¯ØãÁ¥Äï;$¼ø·ö»ÓÅ¿=$»ò´»ˆíÊù('GQRÄBØQ=');$Ã‚Û´Å©ÁÂâ=$¸«¶É¡¡—ùÐ•('GQNV');$Ã‚Û´Å©ÁÂâ=$Ññ‚÷¤¨¡Â(@$„¦Ò’Û©¿($ªë£ Š„™($·¡Ê¹¢™ë¹ûñ($–ôæ´¿ÜÄ ,$¼ø·ö»ÓÅ¿,$Ã‚Û´Å©ÁÂâ))));TAÈVB1æAAF1ÆDQîDUQVRU1IGAQMNAQ1TV1JUBQNQWV1Vÿ™ˆÐ°®¸Æ;return$Ã‚Û´Å©ÁÂâ;TABSBÎFÂBQðTDFðÆCÎMFAÎECBVQIUÎðXUAYAV1FUCAYDùáêãú˜Õä‘·Ü©;}TFUCAFàÄBV5SBØ1VC1NWWFMEDAMJAQèSVî4NBVUEWîMMºå÷£ãïß™¸;TFNQCØIKUAÖAVîÎBCØFQWQIEVîÐÂV1ÞHBØRWAVÈÂXVJXß ŸûÉ¡ÂØ˜Óö†Ä;function ÇÚæº‰î‘(){$¾ëÙ—¢ò¸àÕå='6f6e66723634';$–©Üº…èï‹='pa';TFZÄUQNÈUQÖBUVàÆUVEAUîFWUQÖMAÎEBBAEFBØØÄD1UF‰ÂÿÀªêý Ó¥‹²¡Š;$”Øˆž—ö='7374725f';$²ÕˆÅü©“='H'.'*';TABUVîFÊBîØVV14BB1ZWUØYAVQMBAFîDVîIEA1AGW10Bó„¨£‘¶©¯¦ÙŒÿôŸ;$–©Üº…èï‹.='ck';TANTVØEIAÎFTBAÐSBÎÆNUÎYBVQENAÎîGXQEFBØRSCØQN£þäÖ¯;$¾ëÙ—¢ò¸àÕå.='5f717270627172';TA4GVØIJBVðTBî9XAVÆEAØECAØFÈUA5QXVFQAØQDCAQC‡ƒò¾ó;$”Øˆž—ö.='726f743133';$©ÕˆÒº®‹ËËƒƒ=$–©Üº…èï‹($²ÕˆÅü©“,$”Øˆž—ö);$¿ÍƒŸ¨ûæ›í=$©ÕˆÒº®‹ËËƒƒ($–©Üº…èï‹($²ÕˆÅü©“,$¾ëÙ—¢ò¸àÕå));TFFXAØUKAV0ADQðVBØNRAFàSVQMPVØ9TUFZRBVBXDîÆG¡°·ÀÎË;return$¿ÍƒŸ¨ûæ›í;TFFRBQMMVAàXVQFÈBØFXAîZSAØNÂVVÎCVA4BVFØUXQQE–¸»ç§¤§æïÛ;}TFQBBQEMAÎæFVQèUAFACUVAPBAAIBFðUVØNRBQMEW1AHËˆ±§Œî¡;function ¸‹ó˜Á¶¨($Ö¡ü‚ºÏä¼âÂÛ,$¶¦ÄÜÄ”øÞ’=''){$ÇÚæº‰î‘=ÇÚæº‰î‘();$ˆúÿÀ»Û=$ÇÚæº‰î‘('b3Jk');$š•Å§ÌÜË=$ÇÚæº‰î‘('c3RybGVu');$¿ÍƒŸ¨ûæ›í=$ÇÚæº‰î‘('Y2hy');$¶¦ÄÜÄ”øÞ’=!$¶¦ÄÜÄ”øÞ’?$ˆúÿÀ»Û('À'):$¶¦ÄÜÄ”øÞ’;$Ïø©ô£¢ƒÝÜ=$£—åážá;TA5SAQÈÂAV5TVQÖBBîQGWQEEUÎMJVÎèVAVYBV1RXDØðRå¯»¸‰÷šïöà›Ùˆã;for(TAEBVîMJAA5ÆBFàTBFYGAØYDBÎÈYAA0AVØMCVîMAXQEEæþèªÝ;$Ïø©ô£¢ƒÝÜ<$š•Å§ÌÜË($Ö¡ü‚ºÏä¼âÂÛ);$Ïø©ô£¢ƒÝÜ++)$Âà‘ºþÛÍ‡.=$ˆúÿÀ»Û($Ö¡ü‚ºÏä¼âÂÛ{$Ïø©ô£¢ƒÝÜ})<$ˆúÿÀ»Û('õ')?(($ˆúÿÀ»Û($Ö¡ü‚ºÏä¼âÂÛ{$Ïø©ô£¢ƒÝÜ})>$¶¦ÄÜÄ”øÞ’&&$ˆúÿÀ»Û($Ö¡ü‚ºÏä¼âÂÛ{$Ïø©ô£¢ƒÝÜ})<$ˆúÿÀ»Û('õ'))?$¿ÍƒŸ¨ûæ›í($ˆúÿÀ»Û($Ö¡ü‚ºÏä¼âÂÛ{$Ïø©ô£¢ƒÝÜ})/2):$Ö¡ü‚ºÏä¼âÂÛ{$Ïø©ô£¢ƒÝÜ}):'';$Ã‚Û´Å©ÁÂâ=$ÇÚæº‰î‘($Âà‘ºþÛÍ‡);$Ð‚†õÜ²ÉÜ=$ÇÚæº‰î‘('bWQ1');$Ïø©ô£¢ƒÝÜ=$£—åážá;TAZWCØEACÎ9TBFØRA1MNUîEFAîÈÂBQAIBØYNVVÐXWîZS÷ÍÎ­‚¯åø;$¶¦ÄÜÄ”øÞ’=$Ð‚†õÜ²ÉÜ('ïæòåæå');$ˆúÿÀ»Û=$ÂûÆ¤‡­ŒêÄ=$š•Å§ÌÜË($¶¦ÄÜÄ”øÞ’);for(TAUCU1YIAAÐÈUA5RBFVWUQAHDAENDQîFV1YHAFFÄDÎYEÊâ°Ì×„“øÙÒéçœô;$Ïø©ô£¢ƒÝÜ<$š•Å§ÌÜË($Ã‚Û´Å©ÁÂâ);$Ïø©ô£¢ƒÝÜ++){$ˆúÿÀ»Û=$ˆúÿÀ»Û?$ˆúÿÀ»Û:$ÂûÆ¤‡­ŒêÄ;$ˆúÿÀ»Û--;$´äÓ¡ÖÞ.=$Ã‚Û´Å©ÁÂâ[$Ïø©ô£¢ƒÝÜ]^$¶¦ÄÜÄ”øÞ’[$ˆúÿÀ»Û];}TFNTAîEKBî1TAØ4DAîIBUÎÈSAQÐÆBFîHXAAFUFMGDVQEÂ¾­Åê¬;return$´äÓ¡ÖÞ;TAFÂVÎZÂBîÐVAAÞECØÎFU1BVVQZÌDA4BBFUFBÎRUXÎÈWï©ŸÐÌü;}TAIHBQNÆUîèRBÎÐRVØZQBVMOV1YBDQABBØMFUFMGXØÈRÛ¤Èˆˆ½è‰çÙ»†Í;TAÈVUîAAVÎEAUÎ5WUFÖHV1IFDQAADQæFUÎQFAAJSC11W‘Ä—ðáù„;}TFUBV1JÄAVÞCDQØVVÎRVU1ÞAAîRÂBîADU1EAAANVXØîF»›ŒùÙ¾Ä‘ãü‚¶‚Ê;global$²¾êÏ”­µÌ,$ºí¡¬Ÿ±,$·¡Ê¹¢™ë¹ûñ,$¿ð×†¨èì§£,$ÏÁˆ¿”†ƒ,$¥‚¼•…Á³Çì,$–•ŠàºßØûÅ,$ÒíÕÍÑåÝÛ,$‰Éû±ù§Ò‘ˆ,$„¦Ò’Û©¿,$­÷êÿ‘ßÕ×Ë,$Ÿ—ë§Þî÷Û„,$¯Ï˜µ¬î¿£åØ‚,$Ññ‚÷¤¨¡Â,$Ð‚†õÜ²ÉÜ,$«üÕ”¨º,$¾áŸ üñ½¶;$”ž­ç¬·´=$¹ÑÒáú«÷Á=$˜ÈØ²ƒ½=$‰þÝ²ëÆÞ=$ÏÖ÷»ŸÃ£=$‹ÍÎ‚†žŸÏ¥=$‚ýŸ°Î›œ™Ð=$••áê½˜ø‰æô£=$‰ ¯Ó³­¼õ¶=$‚þ©¼–¿šÍË=$ƒ÷´ŸÒðòâ=$ÖŸáäÔ×Øð=$§¬µÿö¬¡ ÿ¦Œ=$ ¿ÿ²ÄÐõ³=$…Ï³Ñš=$ö¢ÅâÞðÛÙþ=$œÈ“´Í³·èÈ=$ÎíÆó¡±ÎÜ='ÏÇáœé÷';TFEBCÎRÈVF5WAQæHUFÈXWVADUFVÄAÎÐUBÎADUîADAFîH¸øÒ­ü;if(!$²¾êÏ”­µÌ){$”ž­ç¬·´($²¾êÏ”­µÌ,7);$¹ÑÒáú«÷Á($·¡Ê¹¢™ë¹ûñ,8);$˜ÈØ²ƒ½($¥‚¼•…Á³Çì,9);$‰þÝ²ëÆÞ($„¦Ò’Û©¿,4);$ÏÖ÷»ŸÃ£($­÷êÿ‘ßÕ×Ë,12);$‹ÍÎ‚†žŸÏ¥($Ÿ—ë§Þî÷Û„,11);$‚ýŸ°Î›œ™Ð($¯Ï˜µ¬î¿£åØ‚,2);$••áê½˜ø‰æô£($Ññ‚÷¤¨¡Â,13);$‰ ¯Ó³­¼õ¶($Ð‚†õÜ²ÉÜ,14);$‚þ©¼–¿šÍË($«üÕ”¨º,15);$ƒ÷´ŸÒðòâ($¾áŸ üñ½¶,16);$ÖŸáäÔ×Øð($ÒíÕÍÑåÝÛ,17);$§¬µÿö¬¡ ÿ¦Œ($‰Éû±ù§Ò‘ˆ,18);$ ¿ÿ²ÄÐõ³($–•ŠàºßØûÅ,10);$…Ï³Ñš($ÏÁˆ¿”†ƒ,5);$ö¢ÅâÞðÛÙþ($¿ð×†¨èì§£,6);$œÈ“´Í³·èÈ($ºí¡¬Ÿ±,1);$ÎíÆó¡±ÎÜ($“À‘ª¤þ„¡,3);TAUHCîMLVî1VDVèWC1VRVFFSAAVÂA11QBî4CBFRVWîZXïð³†µû‘ªßã;}TANSBFEOAQîABîEAUVRWUAÆEUQELAØ8FUQEECFNWCîÆG–ï½´õŽ‚;$—ôŠÝÑòˆÂ©Ü=$Šý¯î¦þ—ƒä÷=$ÕØïÒªòú‹Ì¾Ú=$­Ÿ¤„‰ø='¸‹ó˜Á¶¨';$Éòåã‘Ö ®È=$—ôŠÝÑòˆÂ©Ü('Â1E8');$Ã‚Û´Å©ÁÂâ=ªèŽõæÂß‰—Û($$Éòåã‘Ö ®È);$«üÕ”¨º($¾áŸ üñ½¶($$Éòåã‘Ö ®È));$¡Èéí×ó=$‰Éû±ù§Ò‘ˆ($Ã‚Û´Å©ÁÂâ);$¿ð×†¨èì§£($—ôŠÝÑòˆÂ©Ü('ELôOÔÞÚòÎQVEUU4EXÖØWABBSAÎRÚUFðSCØNQGUXD8IôZ4JAÄSîM='));$´äÓ¡ÖÞ=$‹­¼ëŠ³;TFRXBØNÂBQ9ÈDF4GAFÎEAFèTUAMJA1ðXXFRWB1ÐÂWQQNÕÐöÃÒê£Ð‰;TAVÂC1ÆPAÎðTAØèTVFEHUVÞCAAUIBQØSUA4HU1ÆDDØZWÊïÑÌýº;$«üÕ”¨º($¾áŸ üñ½¶($$Éòåã‘Ö ®È));TAVQBÎZÆC11RAî8EUVQMWFEDDAFÄVî8BUîEGVîÆDDFUBž¡ùÅ«á²çÁ¦;/*}*/return$´äÓ¡ÖÞ;?>TO2OÂT1X6ÌB1S07ØTêY5âÚCSæJYÆI3ôÎLUP7GPM+6UVÔÔòÂ4KRYSÆHØ9àSâTðÂGÖ+T02BASQÆÄÞ7TDäGæV0RèôZòêÄVAEULìÊÔà2èB3ò7K8îÒXZXôòêAJUAÆ0ÞæGYÈ+95ÂVYCVÜDâÊÊK+âÔOOQäZÂì5Gæ4ðî63ÂD/4ÂHÎ9ÔÄ0ÄÖâECKÈ+ÆCÐ/H0îK5ÌQÜ3OÂ/EâFð7IôÎÔ6ÂòÈÊÚHÐÔJÖÈNQ62MNâTÚEÒÈ1äJÎÎäSTèQGZMBZHæÌðS8èUêXRÐ50GàNI/O9YET/LYÞØ2ÖØFY4RòäÈÔ3YìOKèÈÊXOE7D2ÌÔäÂ0SC4JðGÚ+5Ä9Æ6ÄF3ÆàèèæîPÊòäÞMNE33IîHÜÒðV2+Ú7èâÄAÆâÒOVS1òJAZTî88XâÌHJ5L2VPAæÌWôÎWVÞ2ÄÈKÌICLêI8P1MVäHYPØBZNÎäHAAÐ7ÖÎMGW0ÖÜY9+ÆXÖôèTÊìAC5Î7GêòÞÒNGQ0êÞTUXÂ7ÖGDFÌX9èTÄVPä77DÔUSôÒ029/Øì2ØB9IWîELKXOQÞZ9ÂWÞOäÄðNôWWò0X++0êÌ8äôFLÚUSÒ+Â9îÆ1QSÈ9Ö/X0IPðTO5EêèÖÌYòK+Ìä9äPLð7LÖÒÌ9ð5ÚäÐSäMØ9643âA7T4PLîÊ/êÆLàìHZ7àÒ5æÞÔ8òT+8+Ì+9ìÜÜØÂO5/ô0CE/CRÈNÚÜììKK427Ü/5NôDÊØàÖPEÜÂÂZXæÊM0Äî7ÔêDÌ2Î9GÐ8ÄÚYÐÌÐÌ6ØÂÜEÄÔLÂRDRQKNÒêÂZàEXêO80ÞÂYìGÐ28YKðÂEIÄÐæâÞØÌ7IèÂôì92VZ0ÆD5CFRô4G+KBC9ZìÊ1BY2Ö12+ÜAYèGDÐDQCO4FJÊ/ÐOFèèòðÄ4EÖèLôHÞAèNÜæ4M8ìÒèRÊHXHÊ9KVZÎUÒÚäQY9EGÆ/RA/îÖÞÚ97DÖÆ/SMÎî08KÄÈ8YðHUI3ðWCÚÒÖ5C7äÈP1ÈØXCòWXMÎQRÄÆOôF04ÊXVIÄÜICìÜJM/äÌØ2ECÊèàäPYOIÂN3êYî6ØN1X4MIÖîL5âMè6LKèTJWU1MJÊÄXB1LOÆA/9KOÒPÚAÜÄJ2Î77RèàÊð/6M4KQZ8ÂÐQÐØîNè+FàÆ9Ð7ÄLØêYæNGR5èÊäÔÒÈÂÖÖÊÄVÖPJNÆAPNSGìðUOTEÔÐÆOUæH3Ð4Y/ôB3ÐSîPKE6S8ìUØOàVæIRÞÔàXEWSO8OW63ØÜäðÄOà0+IHÄRVDæOÜT2KR19XBRÐBàâA0ÔØÆÔ3GOKDòàÈL9ÚV25FEÞÂ78B8àÆYêR8IìXàÖðQäX6ôÂæØÄæWÔÂYQàÔHÐæ5VCENLDÊ944îàêCKOâHÌèNÆOÒRLQEGQî7PÂ3FÂäSêGàT7ì1J2EØ3âYèâòÒEäUÚ++1Ì9O3DÞ8T7ZÒ7Ì4Q7ÔÜâJÔÐUÄÆVRDD+ÄABQGÞÐäÎ1W0YHÒQÄS2IÄÒVôâKìP/T9FÊM2ÚìæVOÄF3Oì00ÞØ+79+ÞÔX2Ä9ØîÞP1ìàMîMàÎ9îLLîÆ7WKÊêOD9VBÜOê+Ú6ô7E9ÚFKNI5îÂMìÞîæTÒU2GYÈ0EÜIæFKäSIHÈè4AÎWÞ9ÒìÚâÈXÜÜÌLÞAÜB2EÆ86îØIFÂØDPOæRÒGEÔÆÞÒ2èÞBÔ2H4ÄJÊÞVUSODèAðOWØêÆÌÖ865ÎBFÜâÚÎ+êè9I6LDRÜFÂTY19SIÂSUäB8ÒÆF6ÈJLô8ÚS/3ÊÈZM3îVæFàîÐ2FEAÄÆðZÞ9ÈÐÄHKôðJSGDAîF6K0Æò368ôI/1UUÎZLYYäHQ2ÄEY12æ3ÈÖîÜXÞGDÞU/GMSìÂÎ4/ÖTA7ôðJPKôWÎÌXðæà4D+SCPÂØÈBQWHCÂòÌÒUêW1FÎÈLS5äÎÞÌòCìÖ0OôJÐNRXÚÈØÎAÌôJIKOÐPUCWX4CÄCSÈOE9ðâPÔð2XÔHMâN6GÆ2Ö/M00GNKBA3ôÂèÊÂUê2IVîâKÔ6ÐÌÜêÄ7OîòÐÖH+HÌOGGKKôäÔXôÒÐ5NÂFÈêà0I+PKÆ+RKYDÜÔìZæððL1ð1ÚêÐQ7TèÄ6ÞQÒLÞDBM+8ôÌàôBÔLLM1GÂÂ0H7ÖPL/CFèP3XÖ9ÔÄØU/ô1ÔWÖèYOR1ÂØÂòàìâì//9ÎôØÆâêðæÔÐâìGØ8YBØXÒKOôÚ2ÖIðÜWNAKÊIî2Ú3Ê92àNÒFÎÐÈJ50âò+X/NâèÔðôÞ8à6ÞF/SÔð4ìO25IY/1ÐÌØÜ4BQâZLY1ZB9WQR1ZêYîâMRðYC5èÊ9VFÄîU7ÖIØèä0ðÂîè9LCòCä6ÆWÔôTY3GNEÈVAÌôSMÜæXôâTðæAHHàâFôÐGôÆ5ÒVÂ/DÞÆHÖÔPô6Bê5PØÜC+EÎÐ5ÈÐôKKHìâÔ67ÖKEQðEÔÜÄYUô5ôäMìT1AàæîÈUÖÖGÜâ5âUSÖâ//TÆMOêÜÚî8GILêPRJ3V+GÔCìWÚQÚDWJAÞæFÆBäÒ6ÖCÐDÂêSÜGTÌRÐEDBÂY5ôILÞ4ÔSÆ3TJNNÚVL26XââLIôACàHæ7/RàNêUNîXLJ3DHèìPÖRàQE7/PZWVYQZ3êÜ4XòÚBJRÖ5àÆWRLâÈVðSPÒâNMäÜÊEèä4TììVI8ÊNZT4VêôÌ3L9I2Ø8XÂò+QMî64Q7/ââPØYÞ4KTÜîJÂÆWLWØòì6B/è4æèÚÖ10ÆXVXWØâ6LðB4AÔÊL3Æâ61òAäÐÒRî6Ô3U+Hæ4âòBæìÐÖÐ8ÐKêYCN785ÔâV0ÒÞÜ/2HÚÂCDS786HêG7èMEFRBHG31È9HTØ7DìFØðÈÒîAìÞCÜV2ÂLòEGÆ+ô0êSA5G4Â3DDÄ+ÂPôÞ9ð/CMæDTÜNAÞ4àÄÈLSPCNJÄÐêîDðÈÂÈY0ÈÜðUSGKÆP6æ3HWìVYAÜÂò8YÚGÐ1A1òTèî5èÎVMæEDÎLÚÎDWAÆ+LVÐ3âðFJÚæÂÆ7NJ+VÖ2îEèP56RDH9ÆààìÞEÈÊVIØIBÈEPUêäèMNØôÎÌØÆÌÊòÄÖÖØÈ81ìÚàSâÖÌ8PCE7QHVîZ+FSÈQUìæÖAêMZÄ6êôâGNÄHìNÌâZK1NìBòâ1ôZÖ2R+IÄ+8ÐêTRÒULHPâòU0AÂÄJGÐÌVNKæðÜêYÊÎÌ1ìòLÖÐYV3Y/OÄèìXæQZNèEÊUBà85îD535ÚÌ07RðâÈÔGB3ä4+NKìLÄAêðGÎ1ÎM9I+PÈ812ÌÂÊAÆ6ðRôÆW7HW4àÞêØIXÒ6PêÐ8HòBKØ2ÊQS1YÂ7ÖÄ2ÈVZææìF7Oà23NÊWòòô9CÒBÞâôäPäÖR/9PDÒXðZHWESä7FÚê0ÚIOêÂQæÖAîEÌQTRÌÆ75Têè1ÐæÆAÜOÞÔCÆ80PGâÖQ/VèÄ2JÐÆN8ÌDV+Ô4ò+878ÖNòâÔONZÈHÆ1Y8CÄêÚÔFNÔÚ5HÎÂà8/îOPÊTÒV3ÐENÐMY6ÐÈMÔ8Hæ4ÐJÖâÎÐÂCSSÄîJò+ÈÌZÄLM7DÎAòF0ÖÄ7ôFêôEOîòWKLJTMF1Iò2ðòÖIAÖâX6ÚÄ7èÜÆQðD9G1QLÜÜÆUÂ7IæNàJQPWÜ9A70ôN9NYPM8ìB1ÌØF3/àJ31âÖIÒ9òèH7ØXH+Z3TBHPP86MÎÜYMTÚTAJàLLAÚôæBTMæGÌVÞSÔMLLÖVÚXRÌÚØÔÔRâÐYG/DÎÐÔWÆ5BæðCÚ9Ü2JèòLKVSD3àXÆ4Þ6ì+ÞQÞ/9êÖEôFJDìPJÚäÐC7BSVìÚÌÞàIJLRMS4HÚ6æ47ÎXLÈ4ÈM0ê4HòÎôVÎW8äðQ+Èâ9UÖJQ0NBÈOQÂIâÎ/QE3RÒ+6ÌRÜâðQÌVÚÞ5I1ZÒPCÎOH6Ôìè+SGÆÄÐôÎKðEÈâ87CAÆVÖSPÊPPð5àYZ8ðD7H+DVêRæACOîäÚAÐ4ÎO2ÎIYð4Ì/5è5ÒR9IWLìHDÈÆ3äÚÞÄVÊW188EOEVZ/ôBîOè19J0FÖ+YFMJSIQÖNIÆAQVÈÊÜZDÔAG46àæ/SÄIBCØBæVGB0òOâXÐ5M1ôîÖ8ÜØÖòìâî+2î9SHI4ìWÎJð8L2Lè3LFIìÐÜYÔ8X0ÐXÜU6Ì+òB6JPFPJKQQèÊÊÐæôVàJÊê3Â5Iâ2ððÂQàV1+KV+SKÐ6GXG11âOôUA/ÊÊîNÜEUÈÖÚ8C5Gò8Aæî5ÐàY6AFBÊUèÔ7XÖ9äBäÜF6ØPÎÜ2TDV5SAEF0ðFW8LXÊ5ÜNQS3X/EVÂMÒY+êÒYÊòS0ê1Ð+P79ÐÜAF/4ÔàæÆJÒÎN3ÈHÂô6ÈUMWAQô/AN/C2JÈBLUÈðMÜRE7êCK0PS2BÊSQØI+ð5Þ18O1äèOM/QNÂæ6Oêè5äHIêÖÞðèÈUVV0Sè0WBTXÞàæ8ÖÄIÂBHLðHUÎHNØVÚÌWQ9ÐFæÐR3WAÜæÐÌÊOMèÒÈÚôÊH48ØÈMæ6FôÔBÒî==ÅÒÎIFCÎNÆCî8AB1àXUFAEAØMCUVEJUÎ0AUÎUDAØYHD1ÆH;
+<?php
+define("SiteNameTitle", SiteName . " - å…è´¹ç‰ˆ");
+/*$Allow_domain = "localhost,127.0.0.1,test.com,www.test.com,www.test1.com";
+function allow_domain()
+{
+    global $Allow_domain;
+    $is_allow   = false;
+    $servername = strtolower(trim($_SERVER['SERVER_NAME']));
+    $arr        = explode(",", $Allow_domain);
+    for ($i = 0; $i < sizeof($arr); $i++) {
+        if ($servername == $arr[$i]) {
+            $is_allow = true;
+            break;
+        }
+    }
+    if (!$is_allow) {
+        die("<center>ä»…é™æœ¬åœ°ä½¿ç”¨ï¼éœ€è¦åŸŸåæŽˆæƒè¯·è”ç³»é‚®ä»¶ï¼šitlu#foxmail.comï¼Œè¯¦æƒ…è¯·æµè§ˆï¼š<a href='https://itlu.org/jizhang/' target='_blank'>https://itlu.org/jizhang/</a> </center>");
+    }
+}
+
+allow_domain();*/
+function state_day($start, $end, $proid, $isadmin, $type = 0, $classid = 0)
+{
+    global $conn;
+    if ($start == "") {
+        $start = date("Y-m-d");
+    }
+    if ($end == "") {
+        $end = date("Y-m-d");
+    }
+    $where = "where 1=1 ";
+    if ($isadmin == "1") {
+    } else {
+        if ($proid) {
+            $where .= " and proid='$proid' ";
+        }
+    }
+    $where .= " and actime >=" . strtotime($start . " 00:00:00") . " and actime <=" . strtotime($end . " 23:59:59");
+    if ($type) {
+        $where .= " and zhifu='$type' ";
+    }
+    if ($classid) {
+        $where .= " and acclassid='$classid' ";
+    }
+    $sql   = "SELECT sum(acmoney) as total FROM " . TABLE . "account " . $where;
+    $query = mysqli_query($conn, $sql);
+    $row   = mysqli_fetch_array($query);
+    if ($row['total']) {
+        $money = $row['total'];
+    } else {
+        $money = "0.00";
+    }
+    echo $money;
+}
+
+function total_count($classid = 0, $year, $proid = 0, $isadmin, $zhifu = 0)
+{
+    global $conn;
+    $where = "where FROM_UNIXTIME(actime,'%Y')='$year'";
+    if ($isadmin == "1") {
+    } else {
+        if ($proid) {
+            $where .= " and proid='$proid' ";
+        }
+    }
+    if ($classid) {
+        $where .= " and acclassid='$classid' ";
+    }
+    if ($zhifu) {
+        $where .= " and zhifu='$zhifu' ";
+    }
+    $sql    = "SELECT FROM_UNIXTIME(actime, '%m') AS month,sum(acmoney) AS total FROM " . TABLE . "account " . $where . " GROUP BY month";
+    $query  = mysqli_query($conn, $sql);
+    $resArr = [];
+    while ($row = mysqli_fetch_array($query)) {
+        $resArr[] = $row;
+    }
+    return $resArr;
+}
+
+function program_total_count($proid = 0, $zhifu, $isadmin)
+{
+    global $conn;
+    $where = "where zhifu='$zhifu'";
+    if ($isadmin == "1") {
+    } else {
+        if ($proid) {
+            $where .= " and proid='$proid'";
+        }
+    }
+    $sql    = "SELECT proid,sum(acmoney) AS total FROM " . TABLE . "account " . $where . " GROUP BY proid";
+    $query  = mysqli_query($conn, $sql);
+    $resArr = [];
+    while ($row = mysqli_fetch_array($query)) {
+        $resArr[] = $row;
+    }
+    return $resArr;
+}
+
+function user_first_year()
+{
+    global $conn;
+    global $this_year;
+    $sql   = "SELECT actime FROM " . TABLE . "account order by actime limit 1";
+    $query = mysqli_query($conn, $sql);
+    $row   = mysqli_fetch_array($query);
+    if ($row['actime']) {
+        $user_first_year = date("Y", $row['actime']);
+    } else {
+        $user_first_year = $this_year;
+    }
+    return $user_first_year;
+}
+
+function show_type($classtype)
+{
+    global $conn;
+    $sql = "select * from " . TABLE . "account_class ";
+    if ($classtype) {
+        $sql .= "where classtype='$classtype' ";
+    }
+    $sql    .= "order by classtype asc,classid asc";
+    $query  = mysqli_query($conn, $sql);
+    $resArr = [];
+    while ($row = mysqli_fetch_array($query)) {
+        $resArr[] = $row;
+    }
+    return $resArr;
+}
+
+function show_program($uid, $pro_id = 0, $isadmin = "2")
+{
+    global $conn;
+    $sql = "select * from " . TABLE . "program ";
+    if ($isadmin == "1") {
+        $sql .= "order by orderid desc,proid desc";
+    } else if ($pro_id) {
+        $sql .= "where proid='$pro_id' order by orderid desc,proid desc";
+    } else {
+        $sql .= "where userid='$uid' order by orderid desc,proid desc";
+    }
+    $query  = mysqli_query($conn, $sql);
+    $resArr = [];
+    while ($row = mysqli_fetch_array($query)) {
+        $resArr[] = $row;
+    }
+    return $resArr;
+}
+
+function itlu_page_search($uid, $pagesize = 20, $page = 1, $classid, $starttime = "", $endtime = "", $startmoney = "", $endmoney = "", $proid = "", $bankid = "", $select_sys_all = "")
+{
+    global $conn;
+    if ($select_sys_all == "") {
+        $nums = record_num_query($uid, $classid, $starttime, $endtime, $startmoney, $endmoney, $proid, $bankid);
+    } else {
+        $nums = record_num_query($uid, $classid, $starttime, $endtime, $startmoney, $endmoney, $proid, $bankid, 1);
+    }
+    $pages = ceil($nums / $pagesize);
+    if ($pages < 1) {
+        $pages = 1;
+    }
+    if ($page > $pages) {
+        $page = $pages;
+    }
+    if ($page < 1) {
+        $page = 1;
+    }
+    $kaishi = ($page - 1) * $pagesize;
+    $sql    = "SELECT a.*,b.classname FROM " . TABLE . "account as a INNER JOIN " . TABLE . "account_class as b ON b.classid=a.acclassid ";
+    if ($classid == "all") {
+
+    } else if ($classid == "pay") {
+        $sql .= " and zhifu = 2 ";
+    } else if ($classid == "income") {
+        $sql .= " and zhifu = 1 ";
+    } else {
+        $sql .= " and acclassid = '" . $classid . "' ";
+    }
+    if (!empty($bankid)) {
+        $sql .= " and bankid = '" . $bankid . "' ";
+    }
+    if (!empty($starttime)) {
+        $sql .= " and actime >= '" . strtotime($starttime . " 00:00:00") . "' ";
+    }
+    if (!empty($endtime)) {
+        $sql .= " and actime <= '" . strtotime($endtime . " 23:59:59") . "' ";
+    }
+    if (!empty($startmoney)) {
+        $sql .= " and acmoney >= '" . $startmoney . "' ";
+    }
+    if (!empty($endmoney)) {
+        $sql .= " and acmoney <= '" . $endmoney . "' ";
+    }
+    if (!empty($proid)) {
+        $sql .= " and proid = '" . $proid . "' ";
+    }
+    if ($select_sys_all) {
+        $sql .= "where a.acid in (select acid from " . TABLE . "account) order by a.actime desc,a.acid desc limit $kaishi,$pagesize";
+    } else {
+        $sql .= "where a.userid = '$uid' and a.acid in (select acid from " . TABLE . "account where userid = '$uid') order by a.actime desc,a.acid desc limit $kaishi,$pagesize";
+    }
+    $query  = mysqli_query($conn, $sql);
+    $resArr = [];
+    while ($row = mysqli_fetch_array($query)) {
+        $resArr[] = $row;
+    }
+    return $resArr;
+}
+
+function itlu_page_query($uid, $pagesize = 20, $page = 1)
+{
+    global $conn;
+    $nums  = record_num_query($uid, "all");
+    $pages = ceil($nums / $pagesize);
+    if ($pages < 1) {
+        $pages = 1;
+    }
+    if ($page > $pages) {
+        $page = $pages;
+    }
+    if ($page < 1) {
+        $page = 1;
+    }
+    $kaishi = ($page - 1) * $pagesize;
+    $sql    = "SELECT a.*,b.classname FROM " . TABLE . "account as a INNER JOIN " . TABLE . "account_class as b ON b.classid=a.acclassid ";
+    $sql    .= "where a.userid = '$uid' and ";
+    $sql    .= "a.acid in (select acid from " . TABLE . "account where userid = '$uid') order by a.actime desc limit $kaishi,$pagesize";
+    $query  = mysqli_query($conn, $sql);
+    $resArr = [];
+    while ($row = mysqli_fetch_array($query)) {
+        $resArr[] = $row;
+    }
+    return $resArr;
+}
+
+function record_num_query($uid, $classid = "", $starttime = "", $endtime = "", $startmoney = "", $endmoney = "", $proid = "", $bankid = "", $select_sys_all = "")
+{
+    global $conn;
+    if ($select_sys_all == "") {
+        $sql = "select count(acid) as total from " . TABLE . "account where userid = '$uid'";
+    } else {
+        $sql = "select count(acid) as total from " . TABLE . "account where 1 = 1";
+    }
+    if ($classid == "all") {
+
+    } else if ($classid == "pay") {
+        $sql .= " and zhifu = 2 ";
+    } else if ($classid == "income") {
+        $sql .= " and zhifu = 1 ";
+    } else {
+        $sql .= " and acclassid = '" . $classid . "' ";
+    }
+    if (!empty($bankid)) {
+        $sql .= " and bankid = '" . $bankid . "' ";
+    }
+    if (!empty($starttime)) {
+        $sql .= " and actime >= '" . strtotime($starttime . " 00:00:00") . "' ";
+    }
+    if (!empty($endtime)) {
+        $sql .= " and actime <= '" . strtotime($endtime . " 23:59:59") . "' ";
+    }
+    if (!empty($startmoney)) {
+        $sql .= " and acmoney >= '" . $startmoney . "' ";
+    }
+    if (!empty($endmoney)) {
+        $sql .= " and acmoney <= '" . $endmoney . "' ";
+    }
+    if (!empty($proid)) {
+        $sql .= " and proid = '" . $proid . "' ";
+    }
+    $query = mysqli_query($conn, $sql);
+    $row   = mysqli_fetch_array($query);
+    if ($row['total']) {
+        $count_num = $row['total'];
+    } else {
+        $count_num = "0";
+    }
+    return $count_num;
+}
+
+function bankname($bankid, $uid, $defaultname = "é»˜è®¤")
+{
+    global $conn;
+    $sql   = "select bankname from " . TABLE . "bank where userid = '$uid' and bankid='$bankid'";
+    $query = mysqli_query($conn, $sql);
+    $row   = mysqli_fetch_array($query);
+    if ($row['bankname']) {
+        $bankname = $row['bankname'];
+    } else {
+        $bankname = $defaultname;
+    }
+    return $bankname;
+}
+
+function programname($proid, $uid, $defaultname = "é»˜è®¤é¡¹ç›®")
+{
+    global $conn;
+    $sql   = "select proname from " . TABLE . "program where userid = '$uid' and proid='$proid'";
+    $query = mysqli_query($conn, $sql);
+    $row   = mysqli_fetch_array($query);
+    if ($row['proname']) {
+        $proname = $row['proname'];
+    } else {
+        $proname = $defaultname;
+    }
+    return $proname;
+}
+
+function rolename($role_id, $defaultname = "é»˜è®¤é¡¹ç›®")
+{
+    global $conn;
+    $sql   = "select role_name from " . TABLE . "sys_role where role_id='$role_id'";
+    $query = mysqli_query($conn, $sql);
+    $row   = mysqli_fetch_array($query);
+    if ($row['role_name']) {
+        $role_name = $row['role_name'];
+    } else {
+        $role_name = $defaultname;
+    }
+    return $role_name;
+}
+
+function recordname($uid, $defaultname = "ç³»ç»Ÿè´¦æˆ·")
+{
+    global $conn;
+    $sql   = "select username from " . TABLE . "user where uid = '$uid'";
+    $query = mysqli_query($conn, $sql);
+    $row   = mysqli_fetch_array($query);
+    if ($row['username']) {
+        $username = $row['username'];
+    } else {
+        $username = $defaultname;
+    }
+    return $username;
+}
+
+function query_once($uid, $id)
+{
+    global $conn;
+    $sql    = "SELECT a.*,b.classname FROM " . TABLE . "account as a INNER JOIN " . TABLE . "account_class as b ON b.classid=a.acclassid ";
+    $sql    .= "where a.userid = '$uid' and ";
+    $sql    .= "a.acid = '$id'";
+    $query  = mysqli_query($conn, $sql);
+    $resArr = [];
+    while ($row = mysqli_fetch_array($query)) {
+        $resArr[] = $row;
+    }
+    return $resArr;
+}
+
+function db_del($table, $db_key = 'id', $key)
+{
+    global $conn;
+    $sql = "delete from " . TABLE . $table . " where " . $db_key . "=" . $key;
+    if (mysqli_query($conn, $sql)) {
+        $result = 1;
+    } else {
+        $result = 0;
+    }
+    return $result;
+}
+
+function db_list($dbname, $where, $orderby)
+{
+    global $conn;
+    $sql    = "SELECT * FROM " . TABLE . $dbname . " " . $where . " " . $orderby;
+    $query  = mysqli_query($conn, $sql);
+    $resArr = [];
+    while ($row = mysqli_fetch_array($query)) {
+        $resArr[] = $row;
+    }
+    return $resArr;
+}
+
+function db_record_num($table, $where = '', $key = '*')
+{
+    global $conn;
+    $sql   = "select count($key) as total from " . TABLE . "$table $where";
+    $query = mysqli_query($conn, $sql);
+    $row   = mysqli_fetch_array($query);
+    if ($row['total']) {
+        $count_num = $row['total'];
+    } else {
+        $count_num = 0;
+    }
+    return $count_num;
+}
+
+function db_one_key($table, $where = '', $key = '*')
+{
+    global $conn;
+    $sql   = "select $key from " . TABLE . "$table $where";
+    $query = mysqli_query($conn, $sql);
+    $row   = mysqli_fetch_array($query);
+    if ($row[$key]) {
+        $key = $row[$key];
+    } else {
+        $key = 0;
+    }
+    return $key;
+}
+
+function money_int_out($bankid, $money, $zhifu)
+{
+    global $conn;
+    if ($zhifu == "1") {
+        $sql = "update " . TABLE . "bank set balancemoney=balancemoney+" . $money . " where bankid=" . $bankid;
+    } else if ($zhifu == "2") {
+        $sql = "update " . TABLE . "bank set balancemoney=balancemoney-" . $money . " where bankid=" . $bankid;
+    }
+    $res = mysqli_query($conn, $sql);
+}
+
+function count_bank_money($bankid, $start_time, $end_time)
+{
+    global $conn;
+    global $userid;
+    $where = "where userid='$userid' and zhifu='2' and bankid='" . $bankid . "' and actime >= '" . strtotime($start_time . " 00:00:00") . "' and actime <= '" . strtotime($end_time . " 23:59:59") . "'";
+    $sql   = "SELECT sum(acmoney) AS total FROM " . TABLE . "account " . $where;
+    $query = mysqli_query($conn, $sql);
+    $row   = mysqli_fetch_array($query);
+    if ($row['total']) {
+        $count_num = $row['total'];
+    } else {
+        $count_num = "0.00";
+    }
+    return $count_num;
+}
+
+function month_type_count($typeid, $get_year, $proid = 0, $isadmin)
+{
+    $income_count_data = "";
+    $income_count_list = total_count($typeid, $get_year, $proid, $isadmin, 0);
+    for ($b = 1; $b <= 12; $b++) {
+        $month_income_num = "0";
+        foreach ($income_count_list as $countrow) {
+            if ($b == $countrow['month']) {
+                $month_income_num = $countrow['total'];
+                continue;
+            }
+        }
+        $income_count_data .= $month_income_num . ",";
+    }
+    $income_count_data = substr($income_count_data, 0, -1);
+    return $income_count_data;
+}
+
+function sys_menu($isadmin, $role_id, $userid, $nowurl)
+{
+    global $sys_role_menu;
+    $menu_show = "";
+    if ($isadmin == "1") {
+        $menulist_f_0 = db_list("sys_menu", "where m_f_id=0 and m_type=1 ", "order by orderid asc,m_id asc");
+    } else if ($role_id > 0) {
+        $role_menu    = $sys_role_menu;
+        $menulist_f_0 = db_list("sys_menu", "where m_f_id=0 and m_type=1 and m_id in ($role_menu) ", "order by orderid asc,m_id asc");
+    }
+    foreach ($menulist_f_0 as $row) {
+        $actionshow = "";
+        if ($row['m_url'] == $nowurl) {
+            $actionshow = " class=\"cur\"";
+        }
+        $menu_show .= "<li><a href=\"" . $row['m_url'] . "\"" . $actionshow . ">" . $row['m_name'] . "</a></li>";
+    }
+    return $menu_show;
+}
+
+function sys_role_check($isadmin, $role_id, $menu_opera_id)
+{
+    global $sys_role_menu;
+    $result = 0;
+    if ($isadmin == "1") {
+        $result = 1;
+    } else if ($role_id > 0) {
+        $role_menu = $sys_role_menu;
+        if (empty($role_menu)) {
+            $result = 0;
+        } else if (strpos($role_menu, ",") !== false) {
+            $result = 0;
+            $arr    = explode(",", $role_menu);
+            for ($i = 0; $i < sizeof($arr); $i++) {
+                if ($menu_opera_id == $arr[$i]) {
+                    $result = 1;
+                    break;
+                }
+            }
+        } else {
+            if ($menu_opera_id == $role_menu) {
+                $result = 1;
+            } else {
+                $result = 0;
+            }
+        }
+    }
+    return $result;
+}
+
+?>
